@@ -1,5 +1,3 @@
-ssssss
-project started today
-todo:ask sdsdsdsd
-a new modification
-may6 1049
+zea Mays SNP Calling Project
+Project started today
+Samples expected from sequencing core next week
